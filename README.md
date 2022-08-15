@@ -14,7 +14,7 @@ This is a group project. Group members are:
 
 - Mingzhi Li @ [MagicWaterBee](https://github.com/MagicWaterBee)
 
-See [dev log](https://github.com/TaKeTube/TLEOS/blob/main/student-distrib/README.MD) for individual contributions.
+See [dev log](https://github.com/debugevent90901/TLEOS-core/blob/main/student-distrib/README.MD) for individual contributions.
 
 Here is a snapshot of our OS:
 
