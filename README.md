@@ -1,4 +1,4 @@
-# TLEOS - Tobacco, Left & Eyewash
+# TLEOS-CORE (Tobacco, Left & Eyewash OS)
 
 ### Overview 
 
