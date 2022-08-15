@@ -18,7 +18,7 @@ See [dev log](https://github.com/TaKeTube/TLEOS/blob/main/student-distrib/README
 
 Here is a snapshot of our OS:
 
-![](https://github.com/debugevent90901/TLEOS-core/blob/main/main.png?raw=true)
+![](https://github.com/debugevent90901/TLEOS-core/blob/main/demo.png?raw=true)
 
 ### Features
 
